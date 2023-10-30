@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Etien/Desktop/ArduinoSynth/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Etien/My Drive/Backup/Skola/Maturalni rad/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Etien/My Drive/Backup/Skola/Maturalni rad/app/src/main/res/layout/activity_prijenos.xml" value="0.2359375" />
+        <entry key="..\:/Users/Etien/My Drive/Backup/Skola/Maturalni rad/app/src/main/res/layout/activity_select_device.xml" value="0.3625" />
+        <entry key="..\:/Users/Etien/My Drive/Backup/Skola/Maturalni rad/app/src/main/res/layout/activity_snimanje.xml" value="0.25" />
+        <entry key="..\:/Users/Etien/My Drive/Backup/Skola/Maturalni rad/app/src/main/res/layout/info.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
